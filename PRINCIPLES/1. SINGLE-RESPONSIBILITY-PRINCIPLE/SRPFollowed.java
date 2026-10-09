@@ -31,7 +31,7 @@ public class SRPFollowed {
             products.add(p);
         }
     
-        public static ArrayList<Product> getProducts() {
+        public ArrayList<Product> getProducts() {
             return products;
         }
     
